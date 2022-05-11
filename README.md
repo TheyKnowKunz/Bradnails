@@ -7,12 +7,12 @@
 -Rev2
 
 ## Info
-### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone.**
-###### Made for Windows 10 school laptops
+### **It's not my fault  if you do stupid stuff with with . Be careful. If you gatekeep Bradnails, you are wasting my efforts. This is for everyone.**
+###### school laptops
 
 ## Links
 
-[Discord](https://discord.gg/tAfDFVMpnB) - [Patch Notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md)
+
 
 [Games](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md) - [Movies](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
 
